@@ -13,41 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ransom_note1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hash/ransom_note1.py">
+      <file leaf-file-name="maximise.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_hard/maximise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="187">
+              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ransom_note2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hash/ransom_note2.py">
+      <file leaf-file-name="postal_codes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python_hard/postal_codes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="two_strings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hash/two_strings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sherlock_anagrams.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hash/sherlock_anagrams.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-              <folding>
-                <element signature="e#26#57#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -78,6 +57,8 @@
         <option value="$PROJECT_DIR$/hash/two_strings.py" />
         <option value="$PROJECT_DIR$/hash/try.py" />
         <option value="$PROJECT_DIR$/hash/sherlock_anagrams.py" />
+        <option value="$PROJECT_DIR$/python_hard/maximise.py" />
+        <option value="$PROJECT_DIR$/python_hard/postal_codes.py" />
       </list>
     </option>
   </component>
@@ -104,7 +85,7 @@
             <path>
               <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="hash" type="462c0819:PsiDirectoryNode" />
+              <item name="python_hard" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -129,8 +110,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sherlock_anagrams">
-    <configuration name="ransom_note" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.postal_codes">
+    <configuration name="postal_codes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hackerRank" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hash" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_hard" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\my programs\hackerRank\hash\ransom_note1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_hard/postal_codes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,19 +202,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.ransom_note" />
       <item itemvalue="Python.ransom_note2" />
       <item itemvalue="Python.two_strings" />
       <item itemvalue="Python.try" />
       <item itemvalue="Python.sherlock_anagrams" />
+      <item itemvalue="Python.postal_codes" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.postal_codes" />
         <item itemvalue="Python.sherlock_anagrams" />
         <item itemvalue="Python.try" />
         <item itemvalue="Python.two_strings" />
         <item itemvalue="Python.ransom_note2" />
-        <item itemvalue="Python.ransom_note" />
       </list>
     </recent_temporary>
   </component>
@@ -252,6 +233,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -281,6 +263,37 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hash/ransom_note1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash/ransom_note2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash/two_strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash/sherlock_anagrams.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+          <folding>
+            <element signature="e#26#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hash/ransom_note1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -351,6 +364,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hash/try.py" />
     <entry file="file://$PROJECT_DIR$/hash/ransom_note1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -365,7 +379,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hash/try.py" />
     <entry file="file://$PROJECT_DIR$/hash/two_strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -375,11 +388,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hash/sherlock_anagrams.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="348">
           <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
           <folding>
             <element signature="e#26#57#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_hard/maximise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_hard/postal_codes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="53" />
         </state>
       </provider>
     </entry>
